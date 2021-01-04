@@ -1,0 +1,35 @@
+
+body {
+    flex-direction: column;
+    display: flex;
+    margin-left: 5% auto;
+    margin-right: 5% auto; 
+    margin-bottom: 5% auto; 
+    margin-top: 5% auto;  
+    background-color: #fafbfc;
+}
+.flex-container{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.flex-item{
+    margin: 10px;
+    width: 400px;
+    height: 400px;
+    border: 2px gray solid;
+    
+    justify-content: center;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+.encabezado-container{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

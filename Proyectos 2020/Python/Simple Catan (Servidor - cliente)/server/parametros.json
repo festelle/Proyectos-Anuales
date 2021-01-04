@@ -1,0 +1,7 @@
+{
+    "host" : "localHost",
+    "port" : 80,
+    "CANTIDAD_JUGADORES_PARTIDA": 2,
+    "PUNTOS_VICTORIA_FINALES": 10,
+    "GANANCIA_MATERIA_PRIMA": 1
+}

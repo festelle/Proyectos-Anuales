@@ -1,0 +1,1 @@
+Al no tener instrucciones del formato del archivo para la parte 2, se asumió que se tenía que entregar en el mismo archivo .ipynb que la parte 1.
